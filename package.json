@@ -1,0 +1,12 @@
+{
+  "devDependencies": {
+    "dotenv": "^16.3.1",
+    "hardhat": "^2.19.1",
+    "quai-hardhat-plugin": "^1.0.0",
+    "quais": "^0.1.14",
+    "quais-polling": "^1.0.3"
+  },
+  "dependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^4.0.0"
+  }
+}
